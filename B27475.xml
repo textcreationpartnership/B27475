@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Northern Nanny, or, The Loving lasses lamentation ... tune of, In January last &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27475</idno><idno type="EEBO-CITATION">31355590</idno>
+  <idno type="VID">187765</idno>
+  <idno type="EEBO-PROQUEST">2240895714</idno>
+  
+            <idno type="STC">Wing N1296B</idno>
+            <idno type="OCLC">31355590</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187765)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1748:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Northern Nanny, or, The Loving lasses lamentation ... tune of, In January last &amp;c.</title>
+               </titleStmt>
+               <extent>2 leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. Wright, and J. Clark,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[between 1674 and 1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing (2nd ed.)</note>
+                  <note>Contains six illustrations.</note>
+                  <note>Imperfect: stained and cropped; printed as single sheet, now in two parts.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:187765:1"/>
+            <pb facs="tcp:187765:2"/>
+            <head>Northern Nanny,
+<q>
+                  <l>Or: the loving Lasses lamentation,</l>
+                  <l>In this same Sonnet she doth plain discover</l>
+                  <l>The true affection of a saithful Lover,</l>
+                  <l>Wailing his abscence since by fortune cruel</l>
+                  <l>She was deprived of her dearest Jewel,</l>
+                  <l>Which may a pattern to all lovers be</l>
+                  <l>To take example by this maiden free.</l>
+               </q> Tune of, <hi>In January last, &amp;c.</hi>
+               <figure/>
+            </head>
+            <lg>
+               <l>ON <hi>Easter</hi> Monday last</l>
+               <l>when Ladds and Lasses play</l>
+               <l>As o're the green I past,</l>
+               <l>near non time of the day,</l>
+               <l>I heard a pensive Maiden mourn</l>
+               <l>tears trickling down amain,</l>
+               <l>Quoth she alass why was I born</l>
+               <l>to live in mickle pain.</l>
+            </lg>
+            <lg>
+               <l>Why did my love depart</l>
+               <l>and leave me hird alone,</l>
+               <l>To wail and break my heart</l>
+               <l>with making of my moan,</l>
+               <l>The marble Rocks with me lament</l>
+               <l>sin e I have lost my dea<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>As if with me they were c<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntent</l>
+               <l>to drop a m<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ra<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear.</l>
+            </lg>
+            <lg>
+               <l>You Lasses of the <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orth</l>
+               <l>come hear me tell my tale,</l>
+               <l>Whilst I the praise set forth</l>
+               <l>of him for whom I wail,</l>
+               <l>Come sit ye down upon this gréen</l>
+               <l>and patiently give ear,</l>
+               <l>A true description I will give</l>
+               <l>of him I love so dear.</l>
+            </lg>
+            <lg>
+               <l>He hath a pleasant countenance</l>
+               <l>and eke a rolling eye,</l>
+               <l>Sike charms of love ligs in his s<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</l>
+               <l>will make a maiden dye,</l>
+               <l>His comly person finely made</l>
+               <l>well shap't in every part,</l>
+               <l>Wit tempting language to per<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wade</l>
+               <l>the mo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t obdurate he art.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:187765:2"/>
+               <l>
+                  <figure/>
+               </l>
+               <l>When first it was my chance</l>
+               <l>his person for to view,</l>
+               <l>Each luek and smiling glance</l>
+               <l>my love it would renew:</l>
+               <l>I thought my self the happiest lass</l>
+               <l>when I his love did win,</l>
+               <l>For all the treasure of the earth</l>
+               <l>I valued not a pin.</l>
+            </lg>
+            <lg>
+               <l>True love on either side</l>
+               <l>Did in our hearts take place,</l>
+               <l>But this our joy and happiness</l>
+               <l>did last but little space:</l>
+               <l>For fortune she was always blind</l>
+               <l>and crosses lovers true,</l>
+               <l>And that's the reason that I find</l>
+               <l>I now have cause to rue.</l>
+            </lg>
+            <lg>
+               <l>Our Daddys and our Mammys beath</l>
+               <l>to us did cruel prove,</l>
+               <l>And would not let us wedded be</l>
+               <l>but sought to break our love,</l>
+               <l>Which made my love and I lament</l>
+               <l>things falling out so cross,</l>
+               <l>So that for travel he was bent</l>
+               <l>which grieves me for his loss.</l>
+            </lg>
+            <lg>
+               <l>To cross the Seas he now is gone</l>
+               <l>his sorrows to asswage,</l>
+               <l>And left poor harmless me alone</l>
+               <l>in this my tender age,</l>
+               <l>My love sick heart is fill'd with woe</l>
+               <l>which causeth me to mourn,</l>
+               <l>O whither shall poor <hi>Nanny</hi> go</l>
+               <l>untill my love return.</l>
+            </lg>
+            <lg>
+               <l>In mans attire i'le venture</l>
+               <l>to find my love again,</l>
+               <l>Amongst the strangers I will go</l>
+               <l>through <hi>Holland, France,</hi> and <hi>Spain,</hi>
+               </l>
+               <l>No hardship shall a burden be</l>
+               <l>my chance i'le never rue</l>
+               <l>To set my love at liberty</l>
+               <l>my fancy i'le pursue.</l>
+            </lg>
+            <lg>
+               <l>Or in some noble man of Warr</l>
+               <l>as Cabbin-Boy i'le go,</l>
+               <l>To find my love in countrys far</l>
+               <l>to ease me of my woe,</l>
+               <l>Was ever harmless lass so crost</l>
+               <l>and so with love perplext.</l>
+               <l>For fear my <hi>Johnny</hi> should be lost</l>
+               <l>I am so griev'd and vext.</l>
+            </lg>
+            <lg>
+               <l>My fathers frown I will not fear</l>
+               <l>nor mothers anger mind,</l>
+               <l>Since they have made me lose my dear</l>
+               <l>by being so unkind,</l>
+               <l>If they had granted their consent</l>
+               <l>how happy had we been,</l>
+               <l>To pass the time in merryment</l>
+               <l>amongst the leaves so green.</l>
+            </lg>
+            <lg>
+               <l>But now alass it is too late</l>
+               <l>and all my hope is vain,</l>
+               <l>My sorrow it will not abate</l>
+               <l>till he return again,</l>
+               <l>Vnless I f om my love do hear</l>
+               <l>within a little space,</l>
+               <l>Through desarts wild my course i'le steer</l>
+               <l>to find a resting place.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for F. Coles. T. Vere. J. Wright. and J. Clark.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
